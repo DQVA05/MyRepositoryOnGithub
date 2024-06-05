@@ -1,3 +1,3 @@
-# MyRepositoryOnGithub
-Testing some Stuffs
-Here im going to do some logic exercises to improve my knowledge about using github
+# A fibonaci exercise 
+In this code, we apreciate the first 50 numbers of the fibonacci succesion. 
+# this is my first repo 
